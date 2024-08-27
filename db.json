@@ -1,0 +1,29 @@
+{
+    "products": [
+      {
+        "product_id": 1,
+        "product_name": "Laptop",
+        "product_desc": "A high-performance laptop.",
+        "product_category": "Electronics"
+      },
+      {
+        "product_id": 2,
+        "product_name": "Smartphone",
+        "product_desc": "A latest-generation smartphone.",
+        "product_category": "Electronics"
+      },
+      {
+        "product_id": 3,
+        "product_name": "Refrigerator",
+        "product_desc": "A double-door refrigerator.",
+        "product_category": "Home Appliances"
+      },
+      {
+        "product_id": 4,
+        "product_name": "Washing Machine",
+        "product_desc": "An efficient washing machine.",
+        "product_category": "Home Appliances"
+      }
+    ]
+  }
+  
